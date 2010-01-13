@@ -1,0 +1,6 @@
+README
+doc/
+log/
+tmp/
+db/*.sqlite3
+test/
